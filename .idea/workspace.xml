@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccbdc386-21d1-430d-b6be-6bb249ecd52d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57d71140b77a48f8d5a54ab3f05ca7487a1ba4b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/57d71140b77a48f8d5a54ab3f05ca7487a1ba4b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserRegistration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +29,7 @@
     "Application.UserRegistration.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "uc1/validFirstName",
+    "git-widget-placeholder": "uc2/validLastName",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/UserRegisterationProblem/src/Main.java"
   }
